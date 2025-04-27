@@ -23,6 +23,8 @@ Add this line to the bottom
 
 */30 * * * * sudo /bin/publickeyupdate.sh
 
+CTRL X y enter 
+
 Change Directory to update SSH login
 
 cd /etc/ssh
