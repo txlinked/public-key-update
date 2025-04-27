@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 # Check for internet connectivity
 if ! ping -q -c 1 -W 2 google.com >/dev/null 2>&1; then
