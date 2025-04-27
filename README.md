@@ -8,7 +8,6 @@ Change Directory to install script
 cd /usr/sbin
 
 Then we can download the script file with this command:
-
 wget https://raw.githubusercontent.com/txlinked/public-key-update/refs/heads/main/publickeyupdate.sh
 
 Then once the download has finished we need to make the newly downloaded script file executable. We can do this with the following command:
