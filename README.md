@@ -7,7 +7,7 @@ A little script I have been working on to auto load and remove users from comput
 
 Change Directory to install script 
 
-cd /usr/sbin
+cd /usr/bin
 
 
 Then we can download the script file with this command:
