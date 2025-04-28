@@ -1,6 +1,8 @@
 # public-key-update
 public key update script
 
+This is still being setup so standby
+
 A little script I have been working on to auto load and remove users from computers or server access.
 
 Change Directory to install script 
