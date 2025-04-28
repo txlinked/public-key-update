@@ -61,3 +61,12 @@ PasswordAuthentication no
 PermitEmptyPasswords no
 
 CTRL-X y enter
+
+
+Restart SSH
+
+sudo systemctl restart ssh
+
+Check for errors
+
+sudo systemctl status ssh
