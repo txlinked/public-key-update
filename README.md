@@ -5,6 +5,12 @@ This is still being setup so standby
 
 A little script I have been working on to auto load and remove users from computers or server access.
 
+apt update
+
+apt install curl
+
+apt install sudo
+
 Change Directory to install script 
 
 cd /usr/bin
